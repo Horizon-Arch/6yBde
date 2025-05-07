@@ -1,7 +1,7 @@
 # 6yBde
 
 
-# Мониторинг изменений в файлах SC с помощью GitHub Desktop
+# Отслеживание файлов SC с помощью GitHub Desktop
 
 Этот гайд поможет вам настроить отслеживание изменений в папке `assets` SC через приложение [GitHub Desktop](https://desktop.github.com/download/) и не получить блокировку за 4.1.1
 
