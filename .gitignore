@@ -14,15 +14,19 @@ EXBO/runtime/stalcraft/modassets/*
 EXBO/runtime/stalcraft/modassets/assets/*
 !EXBO/runtime/stalcraft/modassets/assets/**
 
-EXBO/runtime/stalcraft/modassets/assets/**/*.mp4
 EXBO/runtime/stalcraft/modassets/assets/**/*.log
 EXBO/runtime/stalcraft/modassets/assets/**/*.bank
-EXBO/runtime/stalcraft/modassets/assets/**/*.ogg
 EXBO/runtime/stalcraft/modassets/assets/**/*.srt
 EXBO/runtime/stalcraft/modassets/assets/**/*.fmi
 EXBO/runtime/stalcraft/modassets/assets/**/*.xeon
 EXBO/runtime/stalcraft/modassets/assets/**/*.yolo
 EXBO/runtime/stalcraft/modassets/assets/**/*.mca
-EXBO/runtime/stalcraft/modassets/assets/**/*.mcsb
+EXBO/runtime/stalcraft/modassets/assets/**/*.mcal
 EXBO/runtime/stalcraft/modassets/assets/**/*.mcws
 EXBO/runtime/stalcraft/modassets/assets/**/*.ta
+EXBO/runtime/stalcraft/modassets/assets/**/*.mcws
+EXBO/runtime/stalcraft/modassets/assets/**/*.texarr
+EXBO/runtime/stalcraft/modassets/assets/**/*.efkmatd
+EXBO/runtime/stalcraft/modassets/assets/**/*.ta
+EXBO/runtime/stalcraft/modassets/assets/**/*.mp4
+
